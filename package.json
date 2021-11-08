@@ -19,6 +19,10 @@
     "@angular/platform-browser": "~10.2.4",
     "@angular/platform-browser-dynamic": "~10.2.4",
     "@angular/router": "~10.2.4",
+    "html-to-pdfmake": "^2.3.6",
+    "jspdf": "^2.4.0",
+    "pdfmake": "^0.2.3",
+    "primeng": "^12.2.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"

@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PDFgenerator"
+    }
+  },
+  "defaultProject": "PDFgenerator",
+  "cli": {
+    "analytics": "e22d911b-16b8-4622-9650-dc6b55312034"
+  }
 }

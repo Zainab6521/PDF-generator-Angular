@@ -14,7 +14,7 @@ const htmlToPdfmake = require('html-to-pdfmake');
 })
 export class AppComponent {
   @ViewChild('pdfTable')
-  pdfTable!: ElementRef;
+  pdfTable: ElementRef;
 
   public downloadAsPDF() {
     const pdfTable = this.pdfTable.nativeElement;
